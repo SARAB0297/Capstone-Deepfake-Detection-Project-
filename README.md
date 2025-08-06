@@ -10,7 +10,7 @@ Our pipeline follows a structured, research-driven approach:
 
 ### 📁 1. Frame Extraction & Preprocessing
 
-- 🎥 Extracted frames from benchmark datasets (FakeAVCeleb, FaceForensics++, etc.)
+- 🎥 Extracted frames from benchmark datasets (FakeAVCeleb, CelebDF etc.)
 - 🔍 Resized to 256×256 pixels
 - ⚙️ Applied CLAHE (Contrast Limited Adaptive Histogram Equalization)
 - 🔄 Followed by Data Augmentation to generate:
