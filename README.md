@@ -4,7 +4,7 @@ This project was proudly presented at the Deloitte Capstone Program 2025, where 
 Our pipeline follows a structured, research-driven approach:
 
 📁 1. Frame Extraction & Preprocessing
-🎥 Extracted frames from benchmark datasets (FakeAVCeleb, FaceForensics++, etc.)
+🎥 Extracted frames from benchmark datasets (FakeAVCeleb, FakeAV Celeb etc.)
 
 🔍 Resized to 256×256 pixels
 
